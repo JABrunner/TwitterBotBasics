@@ -1,0 +1,18 @@
+With this program, there are a few basic scripts to run a bot to run some basic functions for Twitter.
+These functions are as follows;
+
+Following a certain user(s)
+
+Updating the status for the user or "tweeting"
+
+Updating the descritption of the user
+
+Getting data from a specified user(s)
+
+Liking or "Favoriting" a specified number of Tweets on the users time line
+
+Liking or "Favoriting" a specified number of Tweet on specified users time line
+
+This project was a bit of a challenge as some of the tutorials on line were incomplete or outdated due to either Twitter making changes to their API or differences in 
+versions of Python. Eventually after enough research I managed to figure out any and all errors, while also fixing a security issue that hadn't been addressed in
+any of the tutorials whatsoever.
