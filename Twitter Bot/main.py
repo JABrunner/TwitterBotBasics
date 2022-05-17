@@ -1,7 +1,8 @@
 import tweepy
-
 from dotenv import load_dotenv
 import os
+
+#load dotenv to secure API keys
 load_dotenv()
 api_key=os.getenv("API_KEY")
 api_key_secret=os.getenv("API_SECRET")
